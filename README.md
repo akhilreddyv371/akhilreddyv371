@@ -1,4 +1,7 @@
-### <h1 align="center">Hi 👋, I'm Akhil Reddy V </h1>
+<marquee behavior="scroll" direction="left">
+  <h1 align="center">Hi 👋, I'm Akhil Reddy V</h1>
+</marquee>
+
 ![Design and Development](https://github.com/Akhilreddyv371/akhilreddyv371/blob/Master/Black_Elegant1.png)
 
 ## <h1 align="center">Transforming ideas into successful software solutions</h1>
