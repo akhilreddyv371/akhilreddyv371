@@ -7,17 +7,17 @@
 <h3 style="text-align: center;">How to Reach Me</h2>
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <!-- Email Icon -->
-  <a href="mailto:akhilreddyv371@gmail.com" style="text-decoration: none; color: inherit;">
+  <a href="mailto:akhilreddyv371@gmail.com" style="text-decoration: none; color: inherit;" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/4a90e2/email.png" alt="Email" style="width: 40px; height: 40px; margin: 0 15px;">
   </a>
 
   <!-- LinkedIn Icon -->
-  <a href="https://www.linkedin.com/in/akhil-reddy-v-b731b1137/" style="text-decoration: none; color: inherit;">
+  <a href="https://www.linkedin.com/in/akhil-reddy-v-b731b1137/" style="text-decoration: none; color: inherit;" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" style="width: 40px; height: 40px; margin: 0 15px;">
   </a>
 
   <!-- Web Portfolio Icon -->
-  <a href="https://akhilreddyv.netlify.app/" style="text-decoration: none; color: inherit;">
+  <a href="https://akhilreddyv.netlify.app/" style="text-decoration: none; color: inherit;" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/fa314a/domain.png" alt="Web Portfolio" style="width: 40px; height: 40px; margin: 0 15px;">
   </a>
 </div>
