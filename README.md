@@ -1,4 +1,4 @@
-### ![Design and Development](https://github.com/Akhilreddyv3/akhilreddyv3/blob/main/pexels-quang-nguyen-vinh-2131614.jpg)
+### 
 
 
 <!--
